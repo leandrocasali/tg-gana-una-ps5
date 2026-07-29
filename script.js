@@ -38,7 +38,7 @@ phoneForm.addEventListener("submit", function(e) {
       return;
     }
 
-    formContainer.innerHTML = `<div class="message">Bienvenido a Que Guay viajes! ya estas participando por un Samsung Galaxy S25 Ultra
+    formContainer.innerHTML = `<div class="message">Bienvenido a Team Gamers! ya estas participando por una PS5
     </div>`;
   });
 });
